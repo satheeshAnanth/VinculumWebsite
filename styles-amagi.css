@@ -685,6 +685,7 @@ body {
 .toggle-label {
   font-size: 13px;
   letter-spacing: 0.2px;
+  line-height: normal;
 }
 
 @media (max-width: 720px) {
